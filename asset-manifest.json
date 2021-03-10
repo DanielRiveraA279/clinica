@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/DanielRiveraA279/clinica/static/js/main.831e1053.chunk.js",
+    "main.js.map": "/DanielRiveraA279/clinica/static/js/main.831e1053.chunk.js.map",
+    "runtime-main.js": "/DanielRiveraA279/clinica/static/js/runtime-main.b3f96c2e.js",
+    "runtime-main.js.map": "/DanielRiveraA279/clinica/static/js/runtime-main.b3f96c2e.js.map",
+    "static/js/2.60d259eb.chunk.js": "/DanielRiveraA279/clinica/static/js/2.60d259eb.chunk.js",
+    "static/js/2.60d259eb.chunk.js.map": "/DanielRiveraA279/clinica/static/js/2.60d259eb.chunk.js.map",
+    "static/js/3.4b2b1c6b.chunk.js": "/DanielRiveraA279/clinica/static/js/3.4b2b1c6b.chunk.js",
+    "static/js/3.4b2b1c6b.chunk.js.map": "/DanielRiveraA279/clinica/static/js/3.4b2b1c6b.chunk.js.map",
+    "index.html": "/DanielRiveraA279/clinica/index.html",
+    "static/js/2.60d259eb.chunk.js.LICENSE.txt": "/DanielRiveraA279/clinica/static/js/2.60d259eb.chunk.js.LICENSE.txt",
+    "static/media/img1.20dac102.jpg": "/DanielRiveraA279/clinica/static/media/img1.20dac102.jpg",
+    "static/media/img2.fb612f93.jpg": "/DanielRiveraA279/clinica/static/media/img2.fb612f93.jpg",
+    "static/media/img3.1cb5ecd4.jpg": "/DanielRiveraA279/clinica/static/media/img3.1cb5ecd4.jpg",
+    "static/media/img4.0e60ccee.jpg": "/DanielRiveraA279/clinica/static/media/img4.0e60ccee.jpg",
+    "static/media/img6.834b9518.jpg": "/DanielRiveraA279/clinica/static/media/img6.834b9518.jpg",
+    "static/media/img7.29f4f4a5.jpg": "/DanielRiveraA279/clinica/static/media/img7.29f4f4a5.jpg",
+    "static/media/img8.64c13386.jpg": "/DanielRiveraA279/clinica/static/media/img8.64c13386.jpg",
+    "static/media/img9.eec5825a.JPG": "/DanielRiveraA279/clinica/static/media/img9.eec5825a.JPG",
+    "static/media/logo2.7ba70b08.png": "/DanielRiveraA279/clinica/static/media/logo2.7ba70b08.png",
+    "static/media/slide2.b0872052.jpg": "/DanielRiveraA279/clinica/static/media/slide2.b0872052.jpg",
+    "static/media/slide3.eec5825a.JPG": "/DanielRiveraA279/clinica/static/media/slide3.eec5825a.JPG",
+    "static/media/slide5.fe8b325f.jpg": "/DanielRiveraA279/clinica/static/media/slide5.fe8b325f.jpg",
+    "static/media/slide6.6bc28906.JPG": "/DanielRiveraA279/clinica/static/media/slide6.6bc28906.JPG",
+    "static/media/slide7.9dc2e21b.jpg": "/DanielRiveraA279/clinica/static/media/slide7.9dc2e21b.jpg",
+    "static/media/team-1.66160a09.jpg": "/DanielRiveraA279/clinica/static/media/team-1.66160a09.jpg",
+    "static/media/team-2.01e79a13.jpg": "/DanielRiveraA279/clinica/static/media/team-2.01e79a13.jpg",
+    "static/media/team-3.56cbb0ca.jpg": "/DanielRiveraA279/clinica/static/media/team-3.56cbb0ca.jpg",
+    "static/media/team-4.a37c3e12.jpg": "/DanielRiveraA279/clinica/static/media/team-4.a37c3e12.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3f96c2e.js",
+    "static/js/2.60d259eb.chunk.js",
+    "static/js/main.831e1053.chunk.js"
+  ]
+}
