@@ -9,7 +9,7 @@ import Princing from "./components/pricing";
 import Testimonials from "./components/testimonials";
 import Contact from "./components/contact";
 import Footer from "./components/footer";
-import Zoom from "react-reveal/Zoom";
+
 
 function App() {
   return (
@@ -46,8 +46,9 @@ function App() {
 
       {/*footer section*/}
         <Footer />
-   
+
     </>
+
   );
 }
 

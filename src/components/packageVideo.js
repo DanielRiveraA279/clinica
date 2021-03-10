@@ -30,6 +30,7 @@ const PackageVideo = () => {
             <div class="col-md-6">
               <div class="embed-responsive embed-responsive-16by9">
                 <iframe
+                  title="video"
                   class="embed-responsive-item"
                   src="https://player.vimeo.com/video/146742515?badge=0"
                   allowfullscreen=""

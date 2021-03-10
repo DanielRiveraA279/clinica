@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 
 const Footer = () => {
@@ -7,6 +8,7 @@ const Footer = () => {
         <div id="map-row" class="row">
           <div class="col-xs-12">
             <iframe
+              title="mapa"
               width="100%"
               height="400"
               frameborder="0"

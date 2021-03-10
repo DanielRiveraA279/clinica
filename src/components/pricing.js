@@ -34,7 +34,7 @@ const Pricing = () => {
 
               <div class="text-center text-uppercase">
                 <a
-                  href="#"
+                  href="#pricing"
                   class="btn btn-default-green-transparent-tiny editContent"
                 >
                   Signup Now
@@ -64,7 +64,7 @@ const Pricing = () => {
               </ul>
 
               <div class="text-center text-uppercase">
-                <a href="#" class="btn btn-default-blue-tiny editContent">
+                <a href="#pricing" class="btn btn-default-blue-tiny editContent">
                   Signup Now
                 </a>
               </div>
@@ -93,7 +93,7 @@ const Pricing = () => {
 
               <div class="text-center text-uppercase">
                 <a
-                  href="#"
+                  href="#pricing"
                   class="btn btn-default-green-transparent-tiny editContent"
                 >
                   Signup Now

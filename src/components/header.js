@@ -4,17 +4,17 @@ import slide3 from "../assets/img/slides/slide3.JPG";
 import slide5 from "../assets/img/slides/slide5.jpg";
 import slide6 from "../assets/img/slides/slide6.JPG";
 import slide7 from "../assets/img/slides/slide7.jpg";
-
 import logo2 from "../assets/img/logo2.png";
+
 const Header = () => {
   return (
     <section className="banner" role="banner">
       <header id="header">
         <div className="header-content clearfix">
           {" "}
-          <a className="logo" href="index.html">
+          <a href="#banner" className="logo">
             <i className="icon">
-              <img src={logo2} style={{ width: "40px" }} />
+              <img src={logo2} style={{ width: "40px" }} alt="imagen" />
             </i>{" "}
             Odontología Lomas
           </a>
@@ -43,7 +43,7 @@ const Header = () => {
               </li>
             </ul>
           </nav>
-          <a href="#" className="nav-toggle">
+          <a href="#banner" className="nav-toggle">
             Menu<span></span>
           </a>
         </div>
@@ -86,7 +86,8 @@ const Header = () => {
               data-effect="move"
             >
               <div style={{ color: "#03A9F4" }}>
-              La odontopediatrìa es la rama de la odontologìa encargada de tratar a los niños
+                La odontopediatrìa es la rama de la odontologìa encargada de
+                tratar a los niños
               </div>
             </p>
           </div>
@@ -148,7 +149,6 @@ const Header = () => {
               </div>
             </p>
           </div>
-        
         </div>
       </div>
     </section>

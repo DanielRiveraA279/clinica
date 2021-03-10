@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 import team1 from "../assets/img/team-1.jpg";
 import team2 from "../assets/img/team-2.jpg";

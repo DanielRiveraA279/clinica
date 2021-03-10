@@ -13,7 +13,7 @@ const Intro = () => {
           <div class="site-info">
             <div class="phoneInfo">
               <h6>Telefonos: </h6>
-              <a href="#">123–123–2323</a>;<a href="#">123–123–2323</a>
+              <a href="#contact">123–123–2323</a>;<a href="#contact">123–123–2323</a>
             </div>
             <div class="timeInfo">
               <h6>Horarios: </h6> <em>Lun–Viern: 9am–6pm; Sab: 10am–1pm</em>
