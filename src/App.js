@@ -1,24 +1,53 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./components/header";
+import Intro from "./components/intro";
+import Service from "./components/service";
+import About from "./components/about";
+import PackageVideo from "./components/packageVideo";
+import Gallery from "./components/gallery";
+import Team from "./components/team";
+import Princing from "./components/pricing";
+import Testimonials from "./components/testimonials";
+import Contact from "./components/contact";
+import Footer from "./components/footer";
+import Zoom from "react-reveal/Zoom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      {/* header */}
+        <Header />
+
+      {/*intro*/}
+        <Intro />
+
+      {/*service section*/}
+        <Service />
+
+      {/*about*/}
+        <About />
+
+      {/*package section*/}
+        <PackageVideo />
+
+      {/*gallery section*/}
+        <Gallery />
+
+      {/*our team section*/}
+        <Team />
+
+      {/*our pricing*/}
+        {/* <Princing /> */}
+
+      {/*Testimonials section*/}
+        <Testimonials />
+
+      {/*contact section*/}
+        <Contact />
+
+      {/*footer section*/}
+        <Footer />
+   
+    </>
   );
 }
 
